@@ -4,7 +4,8 @@ export default function Nav() {
   return (
     <header className="nav">
       <a className="nav-mark" href="#top">
-        {brand.mark}
+        <span className="nav-mark-word">{brand.mark}</span>
+        <span className="nav-mark-name">{brand.name}</span>
       </a>
       <nav aria-label="Primary">
         {nav.map((item) => (

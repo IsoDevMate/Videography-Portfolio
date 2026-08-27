@@ -40,7 +40,7 @@ export default function Contact() {
           <strong>{brand.phoneDisplay}</strong>
         </motion.a>
         <motion.a variants={fadeUp} href={brand.instagram} target="_blank" rel="noreferrer">
-          <span>Instagram</span>
+          <span>{brand.name}</span>
           <strong>{brand.handle}</strong>
         </motion.a>
       </motion.div>

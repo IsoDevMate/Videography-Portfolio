@@ -1,7 +1,7 @@
 export const brand = {
   mark: 'SNR',
   name: 'Barack Ouma',
-  handle: '@snrdev001',
+  handle: '@snrdev001edits',
   city: 'Nairobi',
   country: 'Kenya',
   phoneDisplay: '0793 043 014',
@@ -9,15 +9,15 @@ export const brand = {
   email: 'oumabarack1047@gmail.com',
   whatsappChat: 'https://wa.me/254793043014',
   whatsapp: 'https://wa.me/254793043014?text=Hi%20Barack',
-  instagram: 'https://www.instagram.com/snrdev001/',
-  instagramEmbed: 'https://www.instagram.com/snrdev001/embed/',
+  instagram: 'https://www.instagram.com/snrdev001edits/',
+  instagramEmbed: 'https://www.instagram.com/snrdev001edits/embed/',
   instagramPosts: [
-    'https://www.instagram.com/p/DaSpkcgiK2A/',
-    'https://www.instagram.com/reel/DbnnlJ8ohch/',
-    'https://www.instagram.com/reel/Db5Ofv7IWRp/',
-    'https://www.instagram.com/reel/DbPnCIUIupG/',
-    'https://www.instagram.com/reel/DbZfBpJIWCP/',
-    'https://www.instagram.com/reel/DbIPJk-Ih1C/',
+    'https://www.instagram.com/reel/Dci39QtqAkW/',
+    'https://www.instagram.com/reel/Dci3gA3I-oj/',
+    'https://www.instagram.com/reel/Dci3GEqo3Zk/',
+    'https://www.instagram.com/p/Dci29Axil0m/',
+    'https://www.instagram.com/reel/DcVSyUvIV7h/',
+    'https://www.instagram.com/reel/DcVScaVIaoh/',
   ],
 }
 
@@ -43,7 +43,7 @@ export function emailGuest(need) {
 export const guestNeed = 'A conversation about working together'
 
 export const hero = {
-  kicker: 'Nairobi · Kenya',
+  kicker: 'Barack Ouma · Nairobi',
   lines: ['I shoot.', 'I edit.', 'I run the ads.'],
   lede: 'Videography, social media, and advanced cuts for Kenyan businesses.',
   body: 'You get finished video, running ads, and a channel that actually gets answered.',
@@ -127,7 +127,7 @@ export const process = {
 export const instagram = {
   kicker: 'Proof',
   headline: 'Latest six posts.',
-  body: 'Straight from @snrdev001. Tap a post, or open the full feed.',
+  body: 'Straight from @snrdev001edits. Tap a post, or open the full feed.',
 }
 
 export const contact = {

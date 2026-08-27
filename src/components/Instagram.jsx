@@ -31,7 +31,7 @@ export default function Instagram() {
         {posts.map((url) => (
           <article key={url} className="ig-embed">
             <iframe
-              title="Instagram post from @snrdev001"
+              title={`Instagram post from ${brand.name} (${brand.handle})`}
               src={embedSrc(url)}
               loading="lazy"
               allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
